@@ -1,4 +1,3 @@
-
 SyntaxHighlighter.brushes.Kotlin = function()
 {
     var keywords = 'abstract annotation as break by catch class companion const constructor continue' + ' crossinline data do dynamic else enum external false final finally for fun get if' + ' import in infix init inline inner interface internal is lateinit noinline null object' + ' open operator out override package private protected public reified return sealed' + ' set super tailrec this throw trait true try type val var vararg when where while' + ' String Array Unit Int';
